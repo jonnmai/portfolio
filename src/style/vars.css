@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Outfit');
+:root {
+    /* Colors */
+
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+
+    --color-scrollbar: rgb(87,108,188);
+
+    /* Fonts  */
+    --font-roboto: 'Roboto';
+    --font-outfit: 'Outfit';
+
+}

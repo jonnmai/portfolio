@@ -1,0 +1,18 @@
+[
+    {
+        "role": "HND CS / Networks",
+        "organisation": "Lycée Condorcet",
+        "startDate": "Sept, 2021",
+        "endDate": "June, 2023",
+        "experiences": ["Low level languages, Web Development, OOP"],
+        "imageSrc": "history/condorcet.jpg"
+    },
+    {
+        "role": "Professionnal Web Developer Certification",
+        "organisation": "OpenClassrooms",
+        "startDate": "Jan, 2024",
+        "endDate": "May, 2024",
+        "experiences": ["Build and use API's, Build react apps, Implement SEO, manage project"],
+        "imageSrc": "history/oc.png"
+    }
+]

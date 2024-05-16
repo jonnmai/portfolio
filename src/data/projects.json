@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Portfolio",
+        "imageSrc": "projects/portfolio.png",
+        "description": "Le portfolio sur lequel vous êtes",
+        "skills": ["React", "Vite", "ScSS", "Render"],
+        "demo": "https://github.com/jonnmai/portfolio",
+        "source": "https://github.com/jonnmai/portfolio"  
+    },
+    {
+        "title": "Mon Vieux Grimoire",
+        "imageSrc": "projects/monvieuxgrimoire.png",
+        "description": "Une application de notation de livres",
+        "skills": ["NodeJS", "MongoDB", "Express"],
+        "demo": "https://p7-front.onrender.com/",
+        "source": "https://github.com/jonnmai/p7-mon-vieux-grimoire"  
+    },
+    {
+        "title": "Kasa",
+        "imageSrc": "projects/kasa.png",
+        "description": "Le front-end d'une application de location immobilière",
+        "skills": ["React", "ScSS"],
+        "demo": "https://p6-kasa.onrender.com/",
+        "source": "https://github.com/jonnmai/p6-kasa"  
+    },
+    {
+        "title": "Architecte Sophie Bluel",
+        "imageSrc": "projects/sophiebluel.png",
+        "description": "Une application qui permet d'afficher une galerie dynamiquement et d'y ajouter du contenu",
+        "skills": ["API", "JavaScript", "CSS"],
+        "demo": "https://github.com/jonnmai/sophie-bluel",
+        "source": "https://github.com/jonnmai/sophie-bluel"  
+    },
+    {
+        "title": "Optimisation d'un site",
+        "imageSrc": "projects/ninacarducci.png",
+        "description": "Optimisation des performances d'un site et de sa visibilité",
+        "skills": ["SEO", "Lighthouse", "Wave"],
+        "demo": "https://jonnmai.github.io/P5_OC/",
+        "source": "https://github.com/jonnmai/P5_OC"  
+    },
+    {
+        "title": "Booki",
+        "imageSrc": "projects/booki.png",
+        "description": "Simple Onepage",
+        "skills": ["HTML", "CSS"],
+        "demo": "https://jonnmai.github.io/Booki/",
+        "source": "https://github.com/jonnmai/Booki"  
+    } 
+]

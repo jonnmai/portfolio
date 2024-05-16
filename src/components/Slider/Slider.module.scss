@@ -1,0 +1,54 @@
+@import "../../style/vars.css";
+
+.title {
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    margin-bottom: 79px;
+}
+
+.skillsContainer {
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.slider {
+    cursor: grab;
+    overflow: hidden;
+    margin-top: 79px;
+}
+
+.innerSlider {
+    display: flex;
+    flex-direction: row;
+    gap: 55px;
+}
+
+.items {
+
+    .item {
+        background-color: var(--color-secondary);
+        border-radius: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 120px;
+        height: 120px;
+    }
+
+    img {
+        pointer-events: none;
+    }
+
+    p {
+        color: var(--color-text);
+        text-align: center;
+        margin-top: 5%;
+        font-size: 25px;
+        font-family: var(--font-roboto);
+        font-weight: 500;
+    }
+}
