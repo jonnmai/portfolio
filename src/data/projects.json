@@ -2,7 +2,7 @@
     {
         "title": "Portfolio",
         "imageSrc": "projects/portfolio.png",
-        "description": "Le portfolio sur lequel vous êtes",
+        "description": "I learned how to deploy a React and MERN app, use custom domain name.",
         "skills": ["React", "Vite", "ScSS", "Render"],
         "demo": "https://github.com/jonnmai/portfolio",
         "source": "https://github.com/jonnmai/portfolio"  
@@ -10,7 +10,7 @@
     {
         "title": "Mon Vieux Grimoire",
         "imageSrc": "projects/monvieuxgrimoire.png",
-        "description": "Une application de notation de livres",
+        "description": "I learned how to implement a CRUD, I used a NoSQL database, managed to secure passwords and authorizations and create an Express server.",
         "skills": ["NodeJS", "MongoDB", "Express"],
         "demo": "https://p7-front.onrender.com/",
         "source": "https://github.com/jonnmai/p7-mon-vieux-grimoire"  
@@ -18,7 +18,7 @@
     {
         "title": "Kasa",
         "imageSrc": "projects/kasa.png",
-        "description": "Le front-end d'une application de location immobilière",
+        "description": "My first project using ReactJS, I learned how to implement routes and hooks, I also used SaSS for better styling.",
         "skills": ["React", "ScSS"],
         "demo": "https://p6-kasa.onrender.com/",
         "source": "https://github.com/jonnmai/p6-kasa"  
@@ -26,7 +26,7 @@
     {
         "title": "Architecte Sophie Bluel",
         "imageSrc": "projects/sophiebluel.png",
-        "description": "Une application qui permet d'afficher une galerie dynamiquement et d'y ajouter du contenu",
+        "description": "Here I used an API, managed to GET data from it to create a front app with a connection system.",
         "skills": ["API", "JavaScript", "CSS"],
         "demo": "https://github.com/jonnmai/sophie-bluel",
         "source": "https://github.com/jonnmai/sophie-bluel"  
@@ -34,7 +34,7 @@
     {
         "title": "Optimisation d'un site",
         "imageSrc": "projects/ninacarducci.png",
-        "description": "Optimisation des performances d'un site et de sa visibilité",
+        "description": "I optimised the performances of a websites, the visibility and SEO using tools like Wave and Lighthouse.",
         "skills": ["SEO", "Lighthouse", "Wave"],
         "demo": "https://jonnmai.github.io/P5_OC/",
         "source": "https://github.com/jonnmai/P5_OC"  
@@ -42,7 +42,7 @@
     {
         "title": "Booki",
         "imageSrc": "projects/booki.png",
-        "description": "Simple Onepage",
+        "description": "It is a beautiful simple webpage that is responsive.",
         "skills": ["HTML", "CSS"],
         "demo": "https://jonnmai.github.io/Booki/",
         "source": "https://github.com/jonnmai/Booki"  

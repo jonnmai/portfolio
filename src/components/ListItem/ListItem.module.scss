@@ -23,6 +23,14 @@
     background-size: 100% 100%;
 }
 
+ul {
+
+    list-style-position: inside;
+    list-style-type:square ;
+
+    margin-left: 17px;
+}
+
 @media screen and (max-width: 840px) {
     .aboutItem {
         padding-left: 0;
